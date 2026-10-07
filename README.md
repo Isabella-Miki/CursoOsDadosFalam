@@ -1,6 +1,6 @@
 # Os dados falam? Introdução à Análise de Dados com Power BI 
 
-Repositório oficial do minicursoOs dados falam? Introdução à Análise de Dados com Power BI.
+Repositório oficial do minicurso **"Os dados falam? Introdução à Análise de Dados com Power BI"**.
 Este repositório reúne os materiais, bases de dados e arquivos utilizados durante o curso, servindo também como material de consulta para os estudantes após o término do minicurso.
 
 # Sobre o curso
