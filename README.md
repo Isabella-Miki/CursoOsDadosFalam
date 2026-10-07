@@ -9,6 +9,8 @@ O objetivo deste minicurso é apresentar os conceitos introdutórios de Análise
 Ao longo do curso, vamos desenvolver um estudo de caso fictício, resolvendo um problema real de negócio com o uso de dados e Power BI.
 
 ## 🛠️ Tecnologias utilizadas
+- Power BI
+
 
 # Material de apoio
 Link do slide: https://canva.link/q8y2ek37u5877p9
